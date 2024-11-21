@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Robotics & AI Enthusiast. Tech Innovator. Lifelong Learner.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+    <p>muhammad.maaz.23@ucl.ac.uk</p>
+    <p>London, United Kingdom</p>
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I’m Muhammad Maaz, a passionate student of **Robotics and Artificial Intelligence (RAI)** at University College London (UCL). Currently in my second year, I’m deeply interested in the intersection of **machine learning**, **automation**, and **data-driven solutions** to tackle real-world problems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Through my academic journey, I’ve developed a strong foundation in programming (Python, C, and MATLAB), algorithms, and systems engineering. Outside the classroom, I actively explore projects in **machine learning**, **robotics**, and **data science**, blending theoretical knowledge with hands-on experience. I’m also a member of UCL's AI Society, Data Science Society, and FinTech Society, where I engage with like-minded peers and work on innovative ideas.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time, I enjoy coding, mentoring peers in programming, and brainstorming entrepreneurial ventures. My personal mission is to build impactful technologies that create value for society, while continuously learning and improving along the way.
+
+Feel free to explore my portfolio, projects, and publications listed on this site. If you’d like to connect, drop me an email or check out my social links below.
